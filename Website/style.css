@@ -1,0 +1,18 @@
+#one{
+    display: flex;
+    background-color: blue;
+}
+
+#two{
+    display: flex;
+}
+
+#one ul{
+    display: flex;
+    justify-content: space-around;
+    
+}
+
+#one ul li{
+    color: black;
+}
